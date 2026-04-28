@@ -1,1 +1,2 @@
-This is a website created for students at Hillcrest High School. It allows users to purchase various school supplies and school products such as stationery, sports equipment, school uniforms, etc.
+This is a simulated shopping website created for students at Hillcrest High School.
+It allows users to browse and purchase various school related products such as stationery, sports equipment, school uniforms, etc.
