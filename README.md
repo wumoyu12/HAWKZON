@@ -1,3 +1,14 @@
-This is a simulated shopping website created for students at Hillcrest High School.<br>
-It allows users to browse and purchase various school-related products such as stationery, sports equipment, school uniforms, etc.<br>
-Built with: HTML, CSS, and JavaScript
+## Overview
+
+This website is a simulated shopping platform designed for students at Hillcrest High School.
+
+It allows users to browse and purchase various school-related products, such as stationery, sports equipment, and school uniforms.
+
+**Built with:** HTML, CSS, and JavaScript
+
+
+## Project Structure
+
+- **code** – source code for demonstration (HTML, CSS, JavaScript)
+- **images** – visual assets used in the website (including custom-designed elements such as logos)
+- **archive** – downloadable ZIP version of the project
