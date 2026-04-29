@@ -10,5 +10,5 @@ It allows users to browse and purchase various school-related products, such as 
 ## Project Structure
 
 - **code** – source code for demonstration (HTML, CSS, JavaScript)
-- **images** – visual assets used in the website (including custom-designed elements such as logos)
+- **images** – visual assets used in the website (including some custom-designed elements such as logos)
 - **archive** – downloadable ZIP version of the project
