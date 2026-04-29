@@ -11,5 +11,5 @@ It allows users to browse and purchase various school-related products, such as 
 
 - **code** – source code for demonstration (HTML, CSS, JavaScript)
 - **images** – visual assets used in the website (including some custom-designed elements such as logos)
-- - **docs** – project documentation (Storyboard)
+- **docs** – project documentation (Storyboard)
 - **archive** – downloadable ZIP version of the project
